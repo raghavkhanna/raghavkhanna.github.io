@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Propaganda on Raghav Khanna</title>
+    <link>https://raghavkhanna.github.io/categories/propaganda/</link>
+    <description>Recent content in Propaganda on Raghav Khanna</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 03 Oct 2016 16:59:13 -0400</lastBuildDate>
+    
+	<atom:link href="https://raghavkhanna.github.io/categories/propaganda/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hooli’s Hot New Hardware</title>
+      <link>https://raghavkhanna.github.io/projects/third/</link>
+      <pubDate>Mon, 03 Oct 2016 16:59:13 -0400</pubDate>
+      
+      <guid>https://raghavkhanna.github.io/projects/third/</guid>
+      <description>Note: This article originally appeared in CodeRag.
+When Hooli acquired Endframe, no one could wait to see what the tech giant would do with the revolutionary, middle-out compression technology. The wait is over: In a savvy pivot, Hooli took the software and created their newest hardware: the Hooli/Endframe Box. While initially conceived as a consumer-facing platform, the Endframe technology has been repurposed to “make the world a better place through secure, high-capacity enterprise data storage servers utilizing middle-out compression technology.</description>
+    </item>
+    
+  </channel>
+</rss>
