@@ -2,8 +2,12 @@
 
 #Usage: ./commit.sh "commit message"
 # adding files needs to be done separately
-cd ../raghavkhanna.github.io
-git commit -am $1
+#unset GIT_DIR
+cd ../../raghavkhanna.github.io
+git status
+#git commit -am $1
 cd ..
-git commit -am $1
-git push --recurse-submodules=on-demand
+git status
+#git status
+#git commit -am $1
+#git push --recurse-submodules=on-demand
