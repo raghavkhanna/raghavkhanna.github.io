@@ -103,16 +103,6 @@
   code={https://github.com/ethz-asl/mav_dji_ros_interface}
 }
 
-@article{sa2017weednet,
-  title={weedNet: Dense Semantic Weed Classification Using Multispectral Images and MAV for Smart Farming},
-  author={Sa, Inkyu and Chen, Zetao and Popovic, Marija and Khanna, Raghav and Liebisch, Frank and Nieto, Juan and Siegwart, Roland},
-  journal={arXiv preprint arXiv:1709.03329},
-  abstract={Selective weed treatment is a critical step in autonomous crop management as related to crop health and yield. However, a key challenge is reliable, and accurate weed detection to minimize damage to surrounding plants. In this paper, we present an approach for dense semantic weed classification with multispectral images collected by a micro aerial vehicle (MAV). We use the recently developed encoder-decoder cascaded Convolutional Neural Network (CNN), Segnet, that infers dense semantic classes while allowing any number of input image channels and class balancing with our sugar beet and weed datasets. To obtain training datasets, we established an experimental field with varying herbicide levels resulting in field plots containing only either crop or weed, enabling us to use the Normalized Difference Vegetation Index (NDVI) as a distinguishable feature for automatic ground truth generation. We train 6 models with different numbers of input channels and condition (fine-tune) it to achieve about 0.8 F1-score and 0.78 Area Under the Curve (AUC) classification metrics. For model deployment, an embedded GPU system (Jetson TX2) is tested for MAV integration. Dataset used in this paper is released to support the community and future work.},
-  url={https://arxiv.org/abs/1709.03329},
-  year={2017},
-  code={https://github.com/inkyusa/weedNet}
-}
-
 @article{sa2017dynamic,
   title={Dynamic System Identification, and Control for a cost effective open-source VTOL MAV},
   author={Sa, Inkyu and Kamel, Mina and Khanna, Raghav and Popovic, Marija and Nieto, Juan and Siegwart, Roland},
@@ -121,6 +111,16 @@
   url={https://arxiv.org/abs/1701.08623},
   abstract={This paper describes dynamic system identification, and full control of a cost-effective vertical take-off and landing (VTOL) multi-rotor micro-aerial vehicle (MAV) --- DJI Matrice 100. The dynamics of the vehicle and autopilot controllers are identified using only a built-in IMU and utilized to design a subsequent model predictive controller (MPC). Experimental results for the control performance are evaluated using a motion capture system while performing hover, step responses, and trajectory following tasks in the present of external wind disturbances. We achieve root-mean-square (RMS) errors between the reference and actual trajectory of x=0.021m, y=0.016m, z=0.029m, roll=0.392deg, pitch=0.618deg, and yaw=1.087deg while performing hover. This paper also conveys the insights we have gained about the platform and returned to the community through open-source code, and documentation.},
   code={https://github.com/ethz-asl/mav_dji_ros_interface}
+}
+
+@article{sa2017weednet,
+  title={weedNet: Dense Semantic Weed Classification Using Multispectral Images and MAV for Smart Farming},
+  author={Sa, Inkyu and Chen, Zetao and Popovic, Marija and Khanna, Raghav and Liebisch, Frank and Nieto, Juan and Siegwart, Roland},
+  journal={arXiv preprint arXiv:1709.03329},
+  abstract={Selective weed treatment is a critical step in autonomous crop management as related to crop health and yield. However, a key challenge is reliable, and accurate weed detection to minimize damage to surrounding plants. In this paper, we present an approach for dense semantic weed classification with multispectral images collected by a micro aerial vehicle (MAV). We use the recently developed encoder-decoder cascaded Convolutional Neural Network (CNN), Segnet, that infers dense semantic classes while allowing any number of input image channels and class balancing with our sugar beet and weed datasets. To obtain training datasets, we established an experimental field with varying herbicide levels resulting in field plots containing only either crop or weed, enabling us to use the Normalized Difference Vegetation Index (NDVI) as a distinguishable feature for automatic ground truth generation. We train 6 models with different numbers of input channels and condition (fine-tune) it to achieve about 0.8 F1-score and 0.78 Area Under the Curve (AUC) classification metrics. For model deployment, an embedded GPU system (Jetson TX2) is tested for MAV integration. Dataset used in this paper is released to support the community and future work.},
+  url={https://arxiv.org/abs/1709.03329},
+  year={2017},
+  code={https://github.com/inkyusa/weedNet}
 }
 
 @inproceedings{sommer2017calibration_devices,
