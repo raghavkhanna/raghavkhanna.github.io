@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Master Thesis on Raghav Khanna</title>
+    <link>https://raghavkhanna.github.io/categories/master-thesis/</link>
+    <description>Recent content in Master Thesis on Raghav Khanna</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://raghavkhanna.github.io/categories/master-thesis/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Storing Sunlight: Experimental Investigation of a Combined Sensible and Latent Heat Storage for Concentrated Solar Power Plants</title>
+      <link>https://raghavkhanna.github.io/publications/khanna2013storing/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://raghavkhanna.github.io/publications/khanna2013storing/</guid>
+      <description>This report presents the heat transfer modelling, design, construction and experimental in- vestigation of a 40.29 KWhrth laboratory scale combined latent and sensible heat storage for concentrated solar power. The combined storage consists of a 3.97 KWhrth “latent” heat stor- age section, containing the eutectic alloy of Aluminium and Silicon, AlSi12, encapsulated in stainless steel tubes, placed on top of a 36.32 KWhrth “sensible” heat storage section, compris- ing of a packed bed of rocks.</description>
+    </item>
+    
+  </channel>
+</rss>

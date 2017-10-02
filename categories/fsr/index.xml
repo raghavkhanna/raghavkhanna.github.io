@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fsr on Raghav Khanna</title>
+    <link>https://raghavkhanna.github.io/categories/fsr/</link>
+    <description>Recent content in Fsr on Raghav Khanna</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://raghavkhanna.github.io/categories/fsr/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Build your own visual-inertial odometry aided cost-effective and open-source autonomous drone</title>
+      <link>https://raghavkhanna.github.io/publications/sa2017build/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://raghavkhanna.github.io/publications/sa2017build/</guid>
+      <description>This paper describes an approach to building a cost-effective and research grade visual-inertial odometry aided vertical taking-off and landing (VTOL) platform. We utilize an off-the-shelf visual-inertial sensor, an onboard computer, and a quadrotor platform that are factory-calibrated and mass-produced, thereby sharing similar hardware and sensor specifications (e.g., mass, dimensions, intrinsic and extrinsic of camera-IMU systems, and signal-to-noise ratio). We then perform a system calibration and identification enabling the use of our visual-inertial odometry, multi-sensor fusion, and model predictive control frameworks with the off-the-shelf products.</description>
+    </item>
+    
+  </channel>
+</rss>

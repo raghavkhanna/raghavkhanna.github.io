@@ -6,10 +6,19 @@
     <description>Recent content in Categories on Raghav Khanna</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sun, 02 Oct 2016 22:55:05 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 03 Oct 2016 16:59:13 -0400</lastBuildDate>
     
 	<atom:link href="https://raghavkhanna.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Abc</title>
+      <link>https://raghavkhanna.github.io/categories/abc/</link>
+      <pubDate>Mon, 03 Oct 2016 16:59:13 -0400</pubDate>
+      
+      <guid>https://raghavkhanna.github.io/categories/abc/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>About</title>
@@ -39,11 +48,74 @@
     </item>
     
     <item>
+      <title>Cigr Ageng</title>
+      <link>https://raghavkhanna.github.io/categories/cigr-ageng/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://raghavkhanna.github.io/categories/cigr-ageng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Etfa</title>
+      <link>https://raghavkhanna.github.io/categories/etfa/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://raghavkhanna.github.io/categories/etfa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fsr</title>
+      <link>https://raghavkhanna.github.io/categories/fsr/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://raghavkhanna.github.io/categories/fsr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Icra</title>
+      <link>https://raghavkhanna.github.io/categories/icra/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://raghavkhanna.github.io/categories/icra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Iros</title>
+      <link>https://raghavkhanna.github.io/categories/iros/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://raghavkhanna.github.io/categories/iros/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Master Thesis</title>
+      <link>https://raghavkhanna.github.io/categories/master-thesis/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://raghavkhanna.github.io/categories/master-thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Propaganda</title>
       <link>https://raghavkhanna.github.io/categories/propaganda/</link>
       <pubDate>Mon, 03 Oct 2016 16:59:13 -0400</pubDate>
       
       <guid>https://raghavkhanna.github.io/categories/propaganda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Workshop</title>
+      <link>https://raghavkhanna.github.io/categories/workshop/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://raghavkhanna.github.io/categories/workshop/</guid>
       <description></description>
     </item>
     

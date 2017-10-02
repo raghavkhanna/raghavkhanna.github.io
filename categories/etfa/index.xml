@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Etfa on Raghav Khanna</title>
+    <link>https://raghavkhanna.github.io/categories/etfa/</link>
+    <description>Recent content in Etfa on Raghav Khanna</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://raghavkhanna.github.io/categories/etfa/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Beyond point clouds-3d mapping and field parameter measurements using uavs</title>
+      <link>https://raghavkhanna.github.io/publications/khanna2015beyond/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://raghavkhanna.github.io/publications/khanna2015beyond/</guid>
+      <description>t developments in Unmanned Aerial Vehicles (UAVs) have made them ideal tools for remotely monitoring agricultural fields. Complementary advancements in computer vision have enabled automated post-processing of images to generate dense 3D reconstructions in the form of point clouds. In this paper we present a monitoring pipeline that uses a readily available, low cost UAV and camera for quickly surveying a winter wheat field, generate a 3D point cloud from the collected imagery and present methods for automated crop height estimation from the extracted point cloud and compare our estimates with those using standardized techniques.</description>
+    </item>
+    
+  </channel>
+</rss>

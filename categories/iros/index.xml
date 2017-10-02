@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Iros on Raghav Khanna</title>
+    <link>https://raghavkhanna.github.io/categories/iros/</link>
+    <description>Recent content in Iros on Raghav Khanna</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://raghavkhanna.github.io/categories/iros/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Low-Cost System for High-Rate, High-Accuracy Temporal Calibration for LIDARs and Cameras</title>
+      <link>https://raghavkhanna.github.io/publications/sommer2017calibration_devices/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://raghavkhanna.github.io/publications/sommer2017calibration_devices/</guid>
+      <description>Deployment of camera and laser based motion estimation systems for controlling platforms operating at high speeds, such as cars or trains, is posing increasingly challenging precision requirements on the temporal calibration of these sensors. In this work, we demonstrate a simple, low-cost system for calibrating any combination of cameras and time of flight LIDARs with respect to the CPU clock (and therefore, also to each other). The newly proposed device is based on widely available off-the-shelf components, such as the Raspberry Pi 3, which is synchronized using the Precision Time Protocol (PTP) with respect to the CPU of the sensor carrying system.</description>
+    </item>
+    
+    <item>
+      <title>Studying Phenotypic Variability in Crops using a Hand-held Sensor Platform</title>
+      <link>https://raghavkhanna.github.io/publications/khannastudying/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://raghavkhanna.github.io/publications/khannastudying/</guid>
+      <description>t developments in visual-inertial and LiDAR sensors and simultaneous localization and mapping (SLAM) enable recording and digital reconstruction of the physical world. In this paper we utilize a hand-held multi-sensor platform for remotely recording and characterizing physical properties of crops on a field. The platform consists of a visual-inertial sensor, color camera and 2D LiDAR. We syncronize the data from this platform and fuse them in a standard SLAM framework to obtain a detailed model of the field environment in the form of a 3D point cloud.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -59,7 +59,10 @@ def main():
 #            continue
         info = ['+++']
         if 'categories' in entry:
-            info.append('categories = [{}]'.format(entry['keywords']))
+            categories = []
+            for category in entry['categories'].split(", "):
+                categories.append('"{}"'.format(category))
+            info.append('categories = [{}]'.format(', '.join(categories)))
         else:
             info.append('categories = []')
         info.append('comments = false')
@@ -68,6 +71,7 @@ def main():
 #            info.append('image_preview = ""')
         info.append('draft = false')
         info.append('showpagemeta = true')
+        info.append('showcomments = false') # important, otherwise category links don't work properly
         info.append('slug = ""')
         info.append('tags = []')    # important, otherwise content does not appear
 #        if 'abstract' in entry:

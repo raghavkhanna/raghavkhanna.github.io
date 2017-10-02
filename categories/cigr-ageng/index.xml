@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cigr Ageng on Raghav Khanna</title>
+    <link>https://raghavkhanna.github.io/categories/cigr-ageng/</link>
+    <description>Recent content in Cigr Ageng on Raghav Khanna</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://raghavkhanna.github.io/categories/cigr-ageng/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Towards automatic UAV data interpretation for precision farming</title>
+      <link>https://raghavkhanna.github.io/publications/pfeifer2016towards/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://raghavkhanna.github.io/publications/pfeifer2016towards/</guid>
+      <description>Background: The EU-project Flourish intends to establish an autonomously operating precision farming system based on the interaction between unmanned ground vehicles (UGVs) and unmanned aerial vehicles (UAVs). For effective mission planning and site-specific ground intervention by the UGV, the growth, mineral nutrition, weed, and health status of the crop field must be evaluated efficiently. In this regard, the survey capabilities of UAVs can substantially leverage the economic performance and ecological sustainability of precision farming systems.</description>
+    </item>
+    
+  </channel>
+</rss>
