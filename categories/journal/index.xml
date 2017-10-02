@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Journal on Raghav Khanna</title>
+    <link>https://raghavkhanna.github.io/categories/journal/</link>
+    <description>Recent content in Journal on Raghav Khanna</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://raghavkhanna.github.io/categories/journal/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Experimental and numerical investigation of combined sensible-latent heat for thermal energy storage at 575 C and above</title>
+      <link>https://raghavkhanna.github.io/publications/zanganeh2015experimental/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://raghavkhanna.github.io/publications/zanganeh2015experimental/</guid>
+      <description>The design, testing, and modelling of a high-temperature thermocline-type thermal energy storage (TES) are presented. The TES concept uses air as the heat-transfer fluid and combines sensible and latent heat for stabilizing the discharging outflow air temperature. A 42 kWhth lab-scale prototype of 40 cm diameter was fabricated, containing a 9 cm high layer of encapsulated phase change material (AlSi12) on top of a 127 cm high packed bed of sedimentary rocks with a mean diameter of about 3 cm.</description>
+    </item>
+    
+    <item>
+      <title>Improved thermoelectric cooling based on the Thomson effect</title>
+      <link>https://raghavkhanna.github.io/publications/snyder2012improved/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://raghavkhanna.github.io/publications/snyder2012improved/</guid>
+      <description>Traditional thermoelectric Peltier coolers exhibit a cooling limit which is primarily determined by the figure of merit, zT. Rather than a fundamental thermodynamic limit, this bound can be traced to the difficulty of maintaining thermoelectric compatibility. Self-compatibility locally maximizes the cooler&amp;rsquo;s coefficient of performance for a given zT and can be achieved by adjusting the relative ratio of the thermoelectric transport properties that make up zT. In this study, we investigate the theoretical performance of thermoelectric coolers that maintain self-compatibility across the device.</description>
+    </item>
+    
+  </channel>
+</rss>

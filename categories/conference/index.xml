@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications on Raghav Khanna</title>
-    <link>https://raghavkhanna.github.io/publications/</link>
-    <description>Recent content in Publications on Raghav Khanna</description>
+    <title>Conference on Raghav Khanna</title>
+    <link>https://raghavkhanna.github.io/categories/conference/</link>
+    <description>Recent content in Conference on Raghav Khanna</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://raghavkhanna.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://raghavkhanna.github.io/categories/conference/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -30,15 +30,6 @@
     </item>
     
     <item>
-      <title>Dynamic System Identification, and Control for a cost effective open-source VTOL MAV</title>
-      <link>https://raghavkhanna.github.io/publications/sa2017dynamic/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://raghavkhanna.github.io/publications/sa2017dynamic/</guid>
-      <description>This paper describes dynamic system identification, and full control of a cost-effective vertical take-off and landing (VTOL) multi-rotor micro-aerial vehicle (MAV) &amp;mdash; DJI Matrice 100. The dynamics of the vehicle and autopilot controllers are identified using only a built-in IMU and utilized to design a subsequent model predictive controller (MPC). Experimental results for the control performance are evaluated using a motion capture system while performing hover, step responses, and trajectory following tasks in the present of external wind disturbances.</description>
-    </item>
-    
-    <item>
       <title>On field radiometric calibration for multispectral cameras</title>
       <link>https://raghavkhanna.github.io/publications/khanna2017field/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
@@ -54,15 +45,6 @@
       
       <guid>https://raghavkhanna.github.io/publications/lottes2017uav/</guid>
       <description>Unmanned aerial vehicles (UAVs) and other robots in smart farming applications offer the potential to monitor farm land on a per-plant basis, which in turn can reduce the amount of herbicides and pesticides that must be applied. A central information for the farmer as well as for autonomous agriculture robots is the knowledge about the type and distribu- tion of the weeds in the field. In this regard, UAVs offer excellent survey capabilities at low cost.</description>
-    </item>
-    
-    <item>
-      <title>weedNet: Dense Semantic Weed Classification Using Multispectral Images and MAV for Smart Farming</title>
-      <link>https://raghavkhanna.github.io/publications/sa2017weednet/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://raghavkhanna.github.io/publications/sa2017weednet/</guid>
-      <description>lective weed treatment is a critical step in autonomous crop management as related to crop health and yield. However, a key challenge is reliable, and accurate weed detection to minimize damage to surrounding plants. In this paper, we present an approach for dense semantic weed classification with multispectral images collected by a micro aerial vehicle (MAV). We use the recently developed encoder-decoder cascaded Convolutional Neural Network (CNN), Segnet, that infers dense semantic classes while allowing any number of input image channels and class balancing with our sugar beet and weed datasets.</description>
     </item>
     
     <item>
@@ -93,39 +75,12 @@
     </item>
     
     <item>
-      <title>Experimental and numerical investigation of combined sensible-latent heat for thermal energy storage at 575 C and above</title>
-      <link>https://raghavkhanna.github.io/publications/zanganeh2015experimental/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://raghavkhanna.github.io/publications/zanganeh2015experimental/</guid>
-      <description>The design, testing, and modelling of a high-temperature thermocline-type thermal energy storage (TES) are presented. The TES concept uses air as the heat-transfer fluid and combines sensible and latent heat for stabilizing the discharging outflow air temperature. A 42 kWhth lab-scale prototype of 40 cm diameter was fabricated, containing a 9 cm high layer of encapsulated phase change material (AlSi12) on top of a 127 cm high packed bed of sedimentary rocks with a mean diameter of about 3 cm.</description>
-    </item>
-    
-    <item>
       <title>Studying Phenotypic Variability in Crops using a Hand-held Sensor Platform</title>
       <link>https://raghavkhanna.github.io/publications/khannastudying/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
       <guid>https://raghavkhanna.github.io/publications/khannastudying/</guid>
       <description>t developments in visual-inertial and LiDAR sensors and simultaneous localization and mapping (SLAM) enable recording and digital reconstruction of the physical world. In this paper we utilize a hand-held multi-sensor platform for remotely recording and characterizing physical properties of crops on a field. The platform consists of a visual-inertial sensor, color camera and 2D LiDAR. We syncronize the data from this platform and fuse them in a standard SLAM framework to obtain a detailed model of the field environment in the form of a 3D point cloud.</description>
-    </item>
-    
-    <item>
-      <title>Storing Sunlight: Experimental Investigation of a Combined Sensible and Latent Heat Storage for Concentrated Solar Power Plants</title>
-      <link>https://raghavkhanna.github.io/publications/khanna2013storing/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      
-      <guid>https://raghavkhanna.github.io/publications/khanna2013storing/</guid>
-      <description>This report presents the heat transfer modelling, design, construction and experimental in- vestigation of a 40.29 KWhrth laboratory scale combined latent and sensible heat storage for concentrated solar power. The combined storage consists of a 3.97 KWhrth “latent” heat stor- age section, containing the eutectic alloy of Aluminium and Silicon, AlSi12, encapsulated in stainless steel tubes, placed on top of a 36.32 KWhrth “sensible” heat storage section, compris- ing of a packed bed of rocks.</description>
-    </item>
-    
-    <item>
-      <title>Improved thermoelectric cooling based on the Thomson effect</title>
-      <link>https://raghavkhanna.github.io/publications/snyder2012improved/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      
-      <guid>https://raghavkhanna.github.io/publications/snyder2012improved/</guid>
-      <description>Traditional thermoelectric Peltier coolers exhibit a cooling limit which is primarily determined by the figure of merit, zT. Rather than a fundamental thermodynamic limit, this bound can be traced to the difficulty of maintaining thermoelectric compatibility. Self-compatibility locally maximizes the cooler&amp;rsquo;s coefficient of performance for a given zT and can be achieved by adjusting the relative ratio of the thermoelectric transport properties that make up zT. In this study, we investigate the theoretical performance of thermoelectric coolers that maintain self-compatibility across the device.</description>
     </item>
     
   </channel>
