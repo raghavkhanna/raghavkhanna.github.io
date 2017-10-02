@@ -62,7 +62,7 @@
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>https://raghavkhanna.github.io/publications/sa2017weednet/</guid>
-      <description>lective weed treatment is a critical step in autonomous crop management as related to crop health and yield. However, a key challenge is reliable, and accurate weed detection to minimize damage to surrounding plants. In this paper, we present an approach for dense semantic weed classification with multispectral images collected by a micro aerial vehicle (MAV). We use the recently developed encoder-decoder cascaded Convolutional Neural Network (CNN), Segnet, that infers dense semantic classes while allowing any number of input image channels and class balancing with our sugar beet and weed datasets.</description>
+      <description>Selective weed treatment is a critical step in autonomous crop management as related to crop health and yield. However, a key challenge is reliable, and accurate weed detection to minimize damage to surrounding plants. In this paper, we present an approach for dense semantic weed classification with multispectral images collected by a micro aerial vehicle (MAV). We use the recently developed encoder-decoder cascaded Convolutional Neural Network (CNN), Segnet, that infers dense semantic classes while allowing any number of input image channels and class balancing with our sugar beet and weed datasets.</description>
     </item>
     
     <item>
@@ -89,7 +89,7 @@
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
       <guid>https://raghavkhanna.github.io/publications/khanna2015beyond/</guid>
-      <description>t developments in Unmanned Aerial Vehicles (UAVs) have made them ideal tools for remotely monitoring agricultural fields. Complementary advancements in computer vision have enabled automated post-processing of images to generate dense 3D reconstructions in the form of point clouds. In this paper we present a monitoring pipeline that uses a readily available, low cost UAV and camera for quickly surveying a winter wheat field, generate a 3D point cloud from the collected imagery and present methods for automated crop height estimation from the extracted point cloud and compare our estimates with those using standardized techniques.</description>
+      <description>Recent developments in Unmanned Aerial Vehicles (UAVs) have made them ideal tools for remotely monitoring agricultural fields. Complementary advancements in computer vision have enabled automated post-processing of images to generate dense 3D reconstructions in the form of point clouds. In this paper we present a monitoring pipeline that uses a readily available, low cost UAV and camera for quickly surveying a winter wheat field, generate a 3D point cloud from the collected imagery and present methods for automated crop height estimation from the extracted point cloud and compare our estimates with those using standardized techniques.</description>
     </item>
     
     <item>
@@ -107,7 +107,7 @@
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
       <guid>https://raghavkhanna.github.io/publications/khannastudying/</guid>
-      <description>t developments in visual-inertial and LiDAR sensors and simultaneous localization and mapping (SLAM) enable recording and digital reconstruction of the physical world. In this paper we utilize a hand-held multi-sensor platform for remotely recording and characterizing physical properties of crops on a field. The platform consists of a visual-inertial sensor, color camera and 2D LiDAR. We syncronize the data from this platform and fuse them in a standard SLAM framework to obtain a detailed model of the field environment in the form of a 3D point cloud.</description>
+      <description>Recent developments in visual-inertial and LiDAR sensors and simultaneous localization and mapping (SLAM) enable recording and digital reconstruction of the physical world. In this paper we utilize a hand-held multi-sensor platform for remotely recording and characterizing physical properties of crops on a field. The platform consists of a visual-inertial sensor, color camera and 2D LiDAR. We syncronize the data from this platform and fuse them in a standard SLAM framework to obtain a detailed model of the field environment in the form of a 3D point cloud.</description>
     </item>
     
     <item>

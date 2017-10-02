@@ -106,7 +106,7 @@ def main():
 #                vol=volume,
 #                pages=entry['pages']))
 #        info.append('selected = {}'.format(str(args.selected).lower()))
-        info.append('+++')
+        info.append('+++\n')
         if 'abstract' in entry:
             info.append(entry['abstract'])
         if 'url' in entry:
@@ -152,8 +152,6 @@ def abstract(record):
     :type record: dict
     :return: dict -- the modified record
     """
-    if 'abstract' in record:
-        record['abstract'] = record['abstract'].strip(' [on SciFinder(R)]')
     return record
 
 
