@@ -17,7 +17,7 @@
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
       <guid>https://raghavkhanna.github.io/publications/khannastudying/</guid>
-      <description>t developments in visual-inertial and LiDAR sensors and simultaneous localization and mapping (SLAM) enable recording and digital reconstruction of the physical world. In this paper we utilize a hand-held multi-sensor platform for remotely recording and characterizing physical properties of crops on a field. The platform consists of a visual-inertial sensor, color camera and 2D LiDAR. We syncronize the data from this platform and fuse them in a standard SLAM framework to obtain a detailed model of the field environment in the form of a 3D point cloud.</description>
+      <description>Recent developments in visual-inertial and LiDAR sensors and simultaneous localization and mapping (SLAM) enable recording and digital reconstruction of the physical world. In this paper we utilize a hand-held multi-sensor platform for remotely recording and characterizing physical properties of crops on a field. The platform consists of a visual-inertial sensor, color camera and 2D LiDAR. We syncronize the data from this platform and fuse them in a standard SLAM framework to obtain a detailed model of the field environment in the form of a 3D point cloud.</description>
     </item>
     
   </channel>

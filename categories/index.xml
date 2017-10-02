@@ -37,5 +37,23 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Submitted</title>
+      <link>https://raghavkhanna.github.io/categories/submitted/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://raghavkhanna.github.io/categories/submitted/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Workshop</title>
+      <link>https://raghavkhanna.github.io/categories/workshop/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://raghavkhanna.github.io/categories/workshop/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
