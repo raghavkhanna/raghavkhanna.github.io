@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/raghavkhanna
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://raghavkhanna.github.io
+  * I am raghavkhanna (https://keybase.io/raghavkhanna) on keybase.
+  * I have a public key ASD0Yr7Rb8os4tivuDlc_o1f3Gl8Rv3KcAmZoyLfPU-JAgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120f462bed16fca2ce2d8afb8395cfe8d5fdc697c46fdca700999a322df3d4f89020a",
+      "host": "keybase.io",
+      "kid": "0120f462bed16fca2ce2d8afb8395cfe8d5fdc697c46fdca700999a322df3d4f89020a",
+      "uid": "e51f7509d04cd93d5734feed08de7b19",
+      "username": "raghavkhanna"
+    },
+    "merkle_root": {
+      "ctime": 1507208382,
+      "hash": "e4a5a54ec97fae34209856ae4ce8a3170b68451189bfca08d6ec848894b3fd74d187555dcea177354079e2ef6d13c67ad58673c9bf2069d271db7815aaf49e23",
+      "hash_meta": "5b1b3b668e9f1f37de600c9101da35f5528fb715a72541e121862b2bb7b64e38",
+      "seqno": 1512384
+    },
+    "service": {
+      "hostname": "raghavkhanna.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.33"
+  },
+  "ctime": 1507208413,
+  "expire_in": 504576000,
+  "prev": "6bb41ffff2aa50197ec7679ebf460d6f8c6d721555207b9276bc60d87c32bc96",
+  "seqno": 12,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg9GK+0W/KLOLYr7g5XP6NX9xpfEb9ynAJmaMi3z1PiQIKp3BheWxvYWTFA1N7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwZjQ2MmJlZDE2ZmNhMmNlMmQ4YWZiODM5NWNmZThkNWZkYzY5N2M0NmZkY2E3MDA5OTlhMzIyZGYzZDRmODkwMjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwZjQ2MmJlZDE2ZmNhMmNlMmQ4YWZiODM5NWNmZThkNWZkYzY5N2M0NmZkY2E3MDA5OTlhMzIyZGYzZDRmODkwMjBhIiwidWlkIjoiZTUxZjc1MDlkMDRjZDkzZDU3MzRmZWVkMDhkZTdiMTkiLCJ1c2VybmFtZSI6InJhZ2hhdmtoYW5uYSJ9LCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTUwNzIwODM4MiwiaGFzaCI6ImU0YTVhNTRlYzk3ZmFlMzQyMDk4NTZhZTRjZThhMzE3MGI2ODQ1MTE4OWJmY2EwOGQ2ZWM4NDg4OTRiM2ZkNzRkMTg3NTU1ZGNlYTE3NzM1NDA3OWUyZWY2ZDEzYzY3YWQ1ODY3M2M5YmYyMDY5ZDI3MWRiNzgxNWFhZjQ5ZTIzIiwiaGFzaF9tZXRhIjoiNWIxYjNiNjY4ZTlmMWYzN2RlNjAwYzkxMDFkYTM1ZjU1MjhmYjcxNWE3MjU0MWUxMjE4NjJiMmJiN2I2NGUzOCIsInNlcW5vIjoxNTEyMzg0fSwic2VydmljZSI6eyJob3N0bmFtZSI6InJhZ2hhdmtoYW5uYS5naXRodWIuaW8iLCJwcm90b2NvbCI6Imh0dHBzOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4zMyJ9LCJjdGltZSI6MTUwNzIwODQxMywiZXhwaXJlX2luIjo1MDQ1NzYwMDAsInByZXYiOiI2YmI0MWZmZmYyYWE1MDE5N2VjNzY3OWViZjQ2MGQ2ZjhjNmQ3MjE1NTUyMDdiOTI3NmJjNjBkODdjMzJiYzk2Iiwic2Vxbm8iOjEyLCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQHBv/EZRbW/zr//LxSKKWNzltetZCnVNQweUK23MWsgtVlci4HMSTpIbkICK0IrnzVQ6ysXClQwF7OhXbbRevgCoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCBV9AIA+iu/EMY92SvPbtFlGmYvrzAwnly7PA392BJafKN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/raghavkhanna
+
+==================================================================
