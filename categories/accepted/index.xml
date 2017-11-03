@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Accepted on Raghav Khanna</title>
+    <link>https://raghavkhanna.github.io/categories/accepted/</link>
+    <description>Recent content in Accepted on Raghav Khanna</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://raghavkhanna.github.io/categories/accepted/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Autonomous Electric Race Car Design</title>
+      <link>https://raghavkhanna.github.io/publications/funk2017autonomous_electric/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://raghavkhanna.github.io/publications/funk2017autonomous_electric/</guid>
+      <description>Autonomous driving and electric vehicles are nowadays very active research and development areas. In this paper we present the conversion of a standard Kyburz eRod into an autonomous vehicle that can be operated in challenging environments such as Swiss mountain passes. The overall hardware and software architectures are described in detail with a special emphasis on the sensor requirements for autonomous vehicles operating in partially structured environments. Furthermore, the design process itself and the finalized system architecture are presented.</description>
+    </item>
+    
+  </channel>
+</rss>

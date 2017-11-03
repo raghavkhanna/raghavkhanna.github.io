@@ -48,6 +48,15 @@
     </item>
     
     <item>
+      <title>weedNet: Dense Semantic Weed Classification Using Multispectral Images and MAV for Smart Farming</title>
+      <link>https://raghavkhanna.github.io/publications/sa2017weednet/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://raghavkhanna.github.io/publications/sa2017weednet/</guid>
+      <description>Selective weed treatment is a critical step in autonomous crop management as related to crop health and yield. However, a key challenge is reliable, and accurate weed detection to minimize damage to surrounding plants. In this paper, we present an approach for dense semantic weed classification with multispectral images collected by a micro aerial vehicle (MAV). We use the recently developed encoder-decoder cascaded Convolutional Neural Network (CNN), Segnet, that infers dense semantic classes while allowing any number of input image channels and class balancing with our sugar beet and weed datasets.</description>
+    </item>
+    
+    <item>
       <title>Flourish-A robotic approach for automation in crop management</title>
       <link>https://raghavkhanna.github.io/publications/liebischflourish/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>

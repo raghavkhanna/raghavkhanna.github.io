@@ -91,6 +91,15 @@ def main():
                             authors.append('{} {}'.format(name[1], name[0]))
                         else:
                             authors.append('{} {}'.format(name[1], name[0]))
+                else:
+                    name = author.split('and')
+                    if idx == (len(entry['author']) - 1) and idx != 0:
+                        authors.append('and {} {}'.format(name[0], name[1]))
+                    else:
+                        if "Khanna" in author:
+                            authors.append('{} {}'.format(name[0], name[1]))
+                        else:
+                            authors.append('{} {}'.format(name[0], name[1])) 
             info.append('description = "{}"'.format(', '.join(authors)))
 #        if 'journal' in entry:
 #            journal_name = entry['journal']['name'].replace('\\', '')

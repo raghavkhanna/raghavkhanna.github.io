@@ -21,6 +21,15 @@
     </item>
     
     <item>
+      <title>Autonomous Electric Race Car Design</title>
+      <link>https://raghavkhanna.github.io/publications/funk2017autonomous_electric/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://raghavkhanna.github.io/publications/funk2017autonomous_electric/</guid>
+      <description>Autonomous driving and electric vehicles are nowadays very active research and development areas. In this paper we present the conversion of a standard Kyburz eRod into an autonomous vehicle that can be operated in challenging environments such as Swiss mountain passes. The overall hardware and software architectures are described in detail with a special emphasis on the sensor requirements for autonomous vehicles operating in partially structured environments. Furthermore, the design process itself and the finalized system architecture are presented.</description>
+    </item>
+    
+    <item>
       <title>Build your own visual-inertial odometry aided cost-effective and open-source autonomous drone</title>
       <link>https://raghavkhanna.github.io/publications/sa2017build/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
