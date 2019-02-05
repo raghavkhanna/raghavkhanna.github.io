@@ -6,10 +6,37 @@
     <description>Recent content in Publications on Raghav Khanna</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://raghavkhanna.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>AgriColMap: Aerial-Ground Collaborative 3D Mapping for Precision Farming</title>
+      <link>https://raghavkhanna.github.io/publications/potena2019agricolmap/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://raghavkhanna.github.io/publications/potena2019agricolmap/</guid>
+      <description>The combination of aerial survey capabilities of Unmanned Aerial Vehicles with targeted intervention abilities of agricultural Unmanned Ground Vehicles can significantly improve the effectiveness of robotic systems applied to precision agriculture. In this context, building and updating a common map of the field is an essential but challenging task. The maps built using robots of different types show differences in size, resolution and scale, the associated geolocation data may be inaccurate and biased, while the repetitiveness of both visual appearance and geometric structures found within agricultural contexts render classical map merging techniques ineffective.</description>
+    </item>
+    
+    <item>
+      <title>Flourish-a robotic approach for automation in crop management</title>
+      <link>https://raghavkhanna.github.io/publications/walter2018flourish/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://raghavkhanna.github.io/publications/walter2018flourish/</guid>
+      <description>The Flourish project aims to bridge the gap between current and desired capabilities of agricultural robots by developing an adaptable robotic solution for precision farming. Combining the aerial survey capabilities of a small autonomous multi-copter Unmanned Aerial Vehicle (UAV) with a multi-purpose agricultural Unmanned Ground Vehicle (UGV), the system will be able to survey a field from the air, perform targeted intervention on the ground, and provide detailed information for decision support, all with minimal user intervention.</description>
+    </item>
+    
+    <item>
+      <title>WeedMap: A large-scale semantic weed mapping framework using aerial multispectral imaging and deep neural network for precision farming</title>
+      <link>https://raghavkhanna.github.io/publications/sa2018weedmap/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://raghavkhanna.github.io/publications/sa2018weedmap/</guid>
+      <description>The ability to automatically monitor agricultural fields is an important capability in precision farming, enabling steps towards more sustainable agriculture. Precise, high-resolution monitoring is a key prerequisite for targeted intervention and the selective application of agro-chemicals. The main goal of this paper is developing a novel crop/weed segmentation and mapping framework that processes multispectral images obtained from an unmanned aerial vehicle (UAV) using a deep neural network (DNN). Most studies on crop/weed semantic segmentation only consider single images for processing and classification.</description>
+    </item>
     
     <item>
       <title>A Low-Cost System for High-Rate, High-Accuracy Temporal Calibration for LIDARs and Cameras</title>

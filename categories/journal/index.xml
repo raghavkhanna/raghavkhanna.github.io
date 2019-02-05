@@ -6,10 +6,28 @@
     <description>Recent content in Journal on Raghav Khanna</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://raghavkhanna.github.io/categories/journal/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>AgriColMap: Aerial-Ground Collaborative 3D Mapping for Precision Farming</title>
+      <link>https://raghavkhanna.github.io/publications/potena2019agricolmap/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://raghavkhanna.github.io/publications/potena2019agricolmap/</guid>
+      <description>The combination of aerial survey capabilities of Unmanned Aerial Vehicles with targeted intervention abilities of agricultural Unmanned Ground Vehicles can significantly improve the effectiveness of robotic systems applied to precision agriculture. In this context, building and updating a common map of the field is an essential but challenging task. The maps built using robots of different types show differences in size, resolution and scale, the associated geolocation data may be inaccurate and biased, while the repetitiveness of both visual appearance and geometric structures found within agricultural contexts render classical map merging techniques ineffective.</description>
+    </item>
+    
+    <item>
+      <title>WeedMap: A large-scale semantic weed mapping framework using aerial multispectral imaging and deep neural network for precision farming</title>
+      <link>https://raghavkhanna.github.io/publications/sa2018weedmap/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://raghavkhanna.github.io/publications/sa2018weedmap/</guid>
+      <description>The ability to automatically monitor agricultural fields is an important capability in precision farming, enabling steps towards more sustainable agriculture. Precise, high-resolution monitoring is a key prerequisite for targeted intervention and the selective application of agro-chemicals. The main goal of this paper is developing a novel crop/weed segmentation and mapping framework that processes multispectral images obtained from an unmanned aerial vehicle (UAV) using a deep neural network (DNN). Most studies on crop/weed semantic segmentation only consider single images for processing and classification.</description>
+    </item>
     
     <item>
       <title>Experimental and numerical investigation of combined sensible-latent heat for thermal energy storage at 575 C and above</title>
