@@ -43,7 +43,7 @@
 
 
 <header class="row text-left title">
-  <h1 class="title">AgriColMap: Aerial-Ground Collaborative 3D Mapping for Precision Farming</h1>
+  <h1 class="title">A spatio temporal spectral framework for plant stress phenotyping</h1>
 </header>
 <section id="category-pane" class="row meta">
   
@@ -64,12 +64,14 @@
 </section>
 <section id="content-pane" class="row">
   <div class="col-md-12 text-justify content">
-    <p>The combination of aerial survey capabilities of Unmanned Aerial Vehicles with targeted intervention abilities of agricultural Unmanned Ground Vehicles can significantly improve the effectiveness of robotic systems applied to precision agriculture. In this context, building and updating a common map of the field is an essential but challenging task. The maps built using robots of different types show differences in size, resolution and scale, the associated geolocation data may be inaccurate and biased, while the repetitiveness of both visual appearance and geometric structures found within agricultural contexts render classical map merging techniques ineffective. In this paper we propose AgriColMap, a novel map registration pipeline for that leverages a grid-based multi-modal environment representation which includes a vegetation index map and a Digital Surface Model. We cast the data association problem between maps built from UAVs and UGVs as a multi-modal, large displacement dense optical flow estimation. The dominant, coherent flows, selected using a voting scheme, are used as point-to-point correspondences to infer a preliminary non-rigid alignment between the maps. A final refinement is then performed, by exploiting only meaningful parts of the registered maps. We evaluate our system using real world data for 3 fields with different crop species. The results show that our method outperforms several state of the art map registration and matching techniques by a large margin, and has a higher tolerance to large initial misalignments. We release an implementation of the proposed approach along with the acquired datasets with this paper.</p>
+    <p>Recent advances in high throughput phenotyping have made it possible to collect large datasets following plant growth and development over time, and those in machine learning have made inferring phenotypic plant traits from such datasets possible. However, there remains a dirth of datasets following plant growth under stress conditions along with methods for inferring them using only remotely sensed data, especially under a combination of multiple stress factors such as drought, weeds and nutrient deficiency. Such stress factors and their combinations are commonly encountered during crop production and being able to accurately detect and treat such stress conditions in an automated and timely manner can provide a major boost to farm yields with minimal resource input.
+We present a generic framework for remote plant stress phenotyping that consists of a dataset with spatio-temporal-spectral data following sugarbeet crop growth under optimal, drought, low and surplus nitrogen fertilization, and weed stress conditions, along with a machine learning based methodology for systematically inferring these stress conditions from the remotely measured data. The dataset contains biweekly color images, infra-red stereo image pairs and hyperspectral camera images along with applied treatment parameters and environmental factors like temperature and humidity, collected over two months. We present a plant agnostic methodology for deriving plant trait indicators such as canopy cover, height, hyperspectral reflectance and vegetation indices along with a spectral 3D reconstruction of the plants from the raw data to serve as a benchmark. Additionally, we provide fresh and dry weight measurements for both the above (canopy) and below (beet) ground biomass at the end of the growing period to serve as indicators of expected yield. We further describe a data driven, machine learning based method to infer water, Nitrogen and weed stress using the derived plant trait indicators. We use the plant trait indicators to evaluate 8 different classification approaches from which the best classifier achieved a mean cross validation accuracy of 93, 76 and 83% for drought, nitrogen and weed stress severity classification respectively. We also show that our multi-modal approach significantly improves classifier performance over using any single modality.
+The presented framework and dataset can serve as a valuable reference for creating and comparing processing pipelines which extract plant trait indicators and infer prevalent stress factors from remote sensing data under a variety of environments and cropping conditions. These techniques can then be deployed on farm machinery or robots enabling automated, precise and timely corrective interventions for maximising yield.</p>
 
 <blockquote>
-<p><a href="https://arxiv.org/abs/1810.00457">[full text]</a></p>
+<p><a href="https://doi.org/10.1186/s13007-019-0398-8">[full text]</a></p>
 
-<p><a href="https://github.com/cirpote/AgriColMap">[code]</a></p>
+<p><a href="https://github.com/ethz-asl/plant_stress_phenotyping">[code]</a></p>
 </blockquote>
 
   </div>
@@ -91,13 +93,11 @@
 <section id="menu-pane" class="row menu text-center">
   
   
-  <span><a class="menu-item" href="https://raghavkhanna.github.io/publications/walter2018flourish/">&lt; prev | </a></span>
+  <span><a class="menu-item" href="https://raghavkhanna.github.io/publications/potena2019agricolmap/">&lt; prev | </a></span>
   
   
   <span><a class="menu-item" href="/publications">publications</a></span>
   
-  
-  <span><a class="menu-item" href="https://raghavkhanna.github.io/publications/khanna2019/"> | next &gt;</a></span>
   
   
   <h4 class="text-center"><a class="menu-item" href="https://raghavkhanna.github.io/">home</a></h4>

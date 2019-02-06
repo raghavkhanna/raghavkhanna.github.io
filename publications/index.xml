@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>A spatio temporal spectral framework for plant stress phenotyping</title>
+      <link>https://raghavkhanna.github.io/publications/khanna2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://raghavkhanna.github.io/publications/khanna2019/</guid>
+      <description>Recent advances in high throughput phenotyping have made it possible to collect large datasets following plant growth and development over time, and those in machine learning have made inferring phenotypic plant traits from such datasets possible. However, there remains a dirth of datasets following plant growth under stress conditions along with methods for inferring them using only remotely sensed data, especially under a combination of multiple stress factors such as drought, weeds and nutrient deficiency.</description>
+    </item>
+    
+    <item>
       <title>AgriColMap: Aerial-Ground Collaborative 3D Mapping for Precision Farming</title>
       <link>https://raghavkhanna.github.io/publications/potena2019agricolmap/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>

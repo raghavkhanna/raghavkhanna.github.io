@@ -198,3 +198,29 @@ The field mapping by means of an UAV will be shown for crop nitrogen status esti
   publisher={IEEE},
   categories={journal}
 }
+
+@article{khanna2019,
+author="Khanna, Raghav
+and Schmid, Lukas
+and Walter, Achim
+and Nieto, Juan
+and Siegwart, Roland
+and Liebisch, Frank",
+title="A spatio temporal spectral framework for plant stress phenotyping",
+journal="Plant Methods",
+year="2019",
+month="Feb",
+day="06",
+volume="15",
+number="1",
+pages="13",
+abstract="Recent advances in high throughput phenotyping have made it possible to collect large datasets following plant growth and development over time, and those in machine learning have made inferring phenotypic plant traits from such datasets possible. However, there remains a dirth of datasets following plant growth under stress conditions along with methods for inferring them using only remotely sensed data, especially under a combination of multiple stress factors such as drought, weeds and nutrient deficiency. Such stress factors and their combinations are commonly encountered during crop production and being able to accurately detect and treat such stress conditions in an automated and timely manner can provide a major boost to farm yields with minimal resource input.
+We present a generic framework for remote plant stress phenotyping that consists of a dataset with spatio-temporal-spectral data following sugarbeet crop growth under optimal, drought, low and surplus nitrogen fertilization, and weed stress conditions, along with a machine learning based methodology for systematically inferring these stress conditions from the remotely measured data. The dataset contains biweekly color images, infra-red stereo image pairs and hyperspectral camera images along with applied treatment parameters and environmental factors like temperature and humidity, collected over two months. We present a plant agnostic methodology for deriving plant trait indicators such as canopy cover, height, hyperspectral reflectance and vegetation indices along with a spectral 3D reconstruction of the plants from the raw data to serve as a benchmark. Additionally, we provide fresh and dry weight measurements for both the above (canopy) and below (beet) ground biomass at the end of the growing period to serve as indicators of expected yield. We further describe a data driven, machine learning based method to infer water, Nitrogen and weed stress using the derived plant trait indicators. We use the plant trait indicators to evaluate 8 different classification approaches from which the best classifier achieved a mean cross validation accuracy of 93, 76 and 83% for drought, nitrogen and weed stress severity classification respectively. We also show that our multi-modal approach significantly improves classifier performance over using any single modality.
+The presented framework and dataset can serve as a valuable reference for creating and comparing processing pipelines which extract plant trait indicators and infer prevalent stress factors from remote sensing data under a variety of environments and cropping conditions. These techniques can then be deployed on farm machinery or robots enabling automated, precise and timely corrective interventions for maximising yield.",
+issn="1746-4811",
+doi="10.1186/s13007-019-0398-8",
+url="https://doi.org/10.1186/s13007-019-0398-8",
+code={https://github.com/ethz-asl/plant_stress_phenotyping},
+categories={journal}
+}
+
